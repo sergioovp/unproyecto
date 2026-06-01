@@ -10,3 +10,5 @@ def saludoespecial(nombre):
     return f"Bienvenido, {nombre}. Somos la mejor de UNMSM"
 if __name__ =="__main__":
     print(saludar("Unmsm"))
+def nuevanueva(nombre):
+    return f"kkk"
